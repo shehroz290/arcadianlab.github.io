@@ -1338,7 +1338,6 @@ Yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 
 
-#facebook BB
 facebook.com, 416694473845870, RESELLER, c3e20eee3f780d68
 
 
