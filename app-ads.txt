@@ -456,6 +456,9 @@ google.com, pub-3387465585010292, DIRECT, f08c47fec0942fa0
 google.com, pub-4590027837823077, DIRECT, f08c47fec0942fa0
 google.com, pub-1262715519928583, DIRECT, f08c47fec0942fa0
 
+#Facebook Arcadian
+facebook.com, 362922640886928, DIRECT, c3e20eee3f780d68
+
 
 #A4G BB
 a4g.com, 13893, DIRECT
