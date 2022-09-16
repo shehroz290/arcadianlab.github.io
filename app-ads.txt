@@ -6,6 +6,10 @@ google.com, pub-1262715519928583, DIRECT, f08c47fec0942fa0
 #Facebook Arcadian
 facebook.com, 362922640886928, DIRECT, c3e20eee3f780d68
 facebook.com, 613932557091088, DIRECT, c3e20eee3f780d68
+facebook.com, 1305825173287628, DIRECT, c3e20eee3f780d68
+facebook.com, 1260877804665545, DIRECT, c3e20eee3f780d68
+facebook.com, 485389159751226, DIRECT, c3e20eee3f780d68
+
 
 
 #A4G BB
