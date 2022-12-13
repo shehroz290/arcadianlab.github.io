@@ -165,7 +165,7 @@ yahoo.com,58935,RESELLER,e1a5b5b6e3255540
 
 #Ironsource
 
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
+ironsrc.com, 228325, Direct
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
