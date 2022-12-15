@@ -605,7 +605,6 @@ pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24448, RESELLER, 0bfd66d529a55807
-criteo.com, B-063105, RESELLER, 9fac4a4a87c2a4
 agon.mobi, 686, RESELLER
 smartadserver.com, 4322, RESELLER
 appnexus.com, 11450, RESELLER
